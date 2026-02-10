@@ -13,11 +13,12 @@ Advanced SQL, Power BI, and Machine Learning fundamentals
 A/B testing, EDA, business metrics, and data storytelling  
 
 📫 Get in Touch  
-📧 Email: your-email@example.com  
-📄 Resume: View Here  
+📧 Email: [charankarthiknayakanti@gmail.com](mailto:charankarthiknayakanti@gmail.com)  
 
 🔗 Let’s Connect!  
-LinkedIn | GitHub  
+[LinkedIn](https://www.linkedin.com/in/charankarthiknayakanti/) |
+[GitHub](https://github.com/mrkarthik14) |
+[Kaggle](https://www.kaggle.com/charankarthik1404)
 
 🛠️ Languages and Tools  
 Python · SQL · Pandas · NumPy · Scikit-learn · Power BI · Plotly · Streamlit · Git · GitHub  
