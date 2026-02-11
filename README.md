@@ -1,5 +1,5 @@
 Hey there! 👋 I’m Karthik  
-✨ Aspiring Data Analyst | Data Scientist from India 🇮🇳  
+✨ Aspiring Data Scientist from India 🇮🇳  
 
 🌱 Currently Learning  
 Advanced SQL, Power BI, and Machine Learning fundamentals  
