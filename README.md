@@ -30,7 +30,6 @@
 💬 Ask me about: **A/B Testing, EDA, Business Metrics, and Data Storytelling**  
 ⚡ Fun fact: I enjoy simplifying complex data problems into clear, decision-ready insights  
 
-📬 **Contact me**:  
 📫 **Email**: [charankarthiknayakanti@gmail.com](mailto:charankarthiknayakanti@gmail.com)
 
 ---
