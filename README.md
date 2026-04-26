@@ -21,8 +21,7 @@
 <div align="center">
 
 ### 🌟 About Me
-
-🇮🇳 I'm an **Aspiring Data Scientist** from India, passionate about turning raw data into **actionable business insights**  
+ I'm an **Aspiring Data Scientist** from India, passionate about turning raw data into **actionable business insights**  
 🌱 Currently Learning: **Advanced SQL, Power BI, and Machine Learning fundamentals**  
 🔧 Skilled in: Python, SQL, Pandas, NumPy, Scikit-learn, Power BI, Plotly, Streamlit, Git & GitHub  
 🔬 Interests: **Experimentation, Analytics, Applied Machine Learning, and Decision-Making**  
