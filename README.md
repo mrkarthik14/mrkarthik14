@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=✨+Hey+there!+I'm+Charan+Karthik+Nayakanti+✨;🚀+Aspiring+Data+Scientist+from+India+🇮🇳;📊+Turning+Raw+Data+into+Actionable+Insights" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=✨+Hey+there!+I'm+Nayakanti+Charan+Karthik+✨;🚀+Aspiring+Data+Scientist+from+India+🇮🇳;📊+Turning+Raw+Data+into+Actionable+Insights" 
     alt="Typing SVG" 
   />
 </p>
